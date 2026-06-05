@@ -1,6 +1,6 @@
 {
-  "version": "0.0.2",
-  "zip_url": "https://github.com/KronosSoftworks/Software/raw/refs/heads/main/K-Echo/K-Echo%20v0.0.2.zip",
-  "zip_sha256": "89d262e94c88d0007c0707a6dd8e708fc20e29334557d416d90716f0e5cc8577",
-  "version_message": "fix leftover remnant from Altair installer code paste"
+  "version": "0.0.3",
+  "zip_url": "https://github.com/KronosSoftworks/Software/raw/refs/heads/main/K-Echo/K-Echo%20v0.0.3.zip",
+  "zip_sha256": "3dce0abac74c0c978dbb7c574f55212885f5ebf1968d51f1cbca11be1045d1df",
+  "version_message": "oops forgot version"
 }
