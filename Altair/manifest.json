@@ -1,6 +1,6 @@
 {
-  "version": "0.0.2",
-  "zip_url": "https://github.com/KronosSoftworks/Software/raw/refs/heads/main/Altair/Altair%20v0.0.2.zip",
-  "zip_sha256": "79a78e6d0aebdb01435af74e035e78a58d1ff5d6250885beec17f3632189fcaa",
-  "version_message": "fix packed installer"
+  "version": "0.0.3",
+  "zip_url": "https://github.com/KronosSoftworks/Software/raw/refs/heads/main/Altair/Altair.zip",
+  "zip_sha256": "ac3d8e5f79fa79cd7a1f8eb72a4a05b1ab851a76a026fab90c17d1dbf25ac3d2",
+  "version_message": "show current version in app"
 }
