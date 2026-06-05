@@ -1,1 +1,6 @@
-
+{
+  "version": "0.0.1",
+  "zip_url": "https://raw.githubusercontent.com/KronosSoftworks/Software/master/Altair/Altair v0.0.1.zip",
+  "zip_sha256": "e5762cccb5915cf562d6cf58da76dae4f4c764f276fe17837cad0ec95617d093",
+  "version_message": "initial"
+}
