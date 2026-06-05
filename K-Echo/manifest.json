@@ -1,1 +1,6 @@
-
+{
+  "version": "0.0.1",
+  "zip_url": "https://github.com/KronosSoftworks/Software/raw/refs/heads/main/K-Echo/K-Echo%20v0.0.1.zip",
+  "zip_sha256": "1597895c850d6768afbf827af8e2af2be5e3a5534e55e6c136f1ed8cea7b666e",
+  "version_message": "initial"
+}
