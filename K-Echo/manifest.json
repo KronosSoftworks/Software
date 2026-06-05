@@ -1,6 +1,6 @@
 {
-  "version": "0.0.4",
+  "version": "0.0.5",
   "zip_url": "https://github.com/KronosSoftworks/Software/raw/refs/heads/main/K-Echo/K-Echo.zip",
-  "zip_sha256": "a48d58fe67da3985f1be4694996708d234fbdef2ccdfdcdcc0da60f1173768d9",
-  "version_message": "show current version in app"
+  "zip_sha256": "8b0c016576c7ba654a5c041fbe65028cc04af3616c28fa21a19f284e08e18873",
+  "version_message": "improve installer"
 }
