@@ -1,6 +1,6 @@
 {
-  "version": "0.0.4",
-  "zip_url": "https://github.com/KronosSoftworks/Software/raw/refs/heads/main/Altair/Altair.zip",
-  "zip_sha256": "f4d5a8515c06cac581ddd28b8fe7926b2dba9026d97f3c753d0391d0bb6136e8",
-  "version_message": "improve installer"
+    "version": "0.0.5",
+    "zip_url": "https://github.com/KronosSoftworks/Software/raw/refs/heads/main/Altair/Altair.zip",
+    "zip_sha256": "03589b4ff24acdd21c81455459a7c001d9316c79aa3eb2a1bacf78a5b4e99d88",
+    "version_message": "made the default starting tab the launcher, added discord rpc, added a button to add a shortcut to the desktop in the settings, and added a button to uninstall in the settings."
 }
