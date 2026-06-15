@@ -1,6 +1,6 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "zip_url": "https://github.com/KronosSoftworks/Software/raw/refs/heads/main/K-Echo/K-Echo.zip",
-    "zip_sha256": "c92e65b216370693915137c5178868f15f22e18e389e91949e8ebb900baa3f94",
-    "version_message": "fix uninstaller banner and options [accidental remnants from Altair's uninstaller]. bump up version to 0.1.1 because i forgot how major.minor.patch works and realized i should not just be updating the patch number... altair soon to follow"
+    "zip_sha256": "8efe713c35b6659b144ccc136a8dda837271e299016e00112a9087c4dff8506d",
+    "version_message": "fixed major updater break, i accidentally forgot to replace 'Altair Updater.exe' with 'K-Echo Updater.exe' in the code and pushed the update, oops :("
 }
