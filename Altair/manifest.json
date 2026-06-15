@@ -1,6 +1,6 @@
 {
-    "version": "0.0.5",
+    "version": "0.1.1",
     "zip_url": "https://github.com/KronosSoftworks/Software/raw/refs/heads/main/Altair/Altair.zip",
-    "zip_sha256": "03589b4ff24acdd21c81455459a7c001d9316c79aa3eb2a1bacf78a5b4e99d88",
-    "version_message": "made the default starting tab the launcher, added discord rpc, added a button to add a shortcut to the desktop in the settings, and added a button to uninstall in the settings."
+    "zip_sha256": "87248bc004e86904c75e02c6205357045b6e5b043a9d3cdee6c70e84e482cb7e",
+    "version_message": "added searchbar in the mod manager installed mods list, fixed .mrpack curseforge mod handling, potentially fixed bug of mrpack staying the same when exported again after mods have been added/deleted/changed."
 }
