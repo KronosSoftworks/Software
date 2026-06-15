@@ -1,6 +1,6 @@
 {
-  "version": "0.0.5",
-  "zip_url": "https://github.com/KronosSoftworks/Software/raw/refs/heads/main/K-Echo/K-Echo.zip",
-  "zip_sha256": "8b0c016576c7ba654a5c041fbe65028cc04af3616c28fa21a19f284e08e18873",
-  "version_message": "improve installer"
+    "version": "0.0.6",
+    "zip_url": "https://github.com/KronosSoftworks/Software/raw/refs/heads/main/K-Echo/K-Echo.zip",
+    "zip_sha256": "3159e485607561a092496cb01b137fd594fb19237a2f07bf17f9d883edf47e19",
+    "version_message": "add 'uninstall app' button in settings, add discord rpc, add 'add desktop shortcut' button in settings, make installer ask if the user would like to add desktop shortcut, and make K-Echo detect the absence of vb-cable, launching the vb-cable setup if the user chooses."
 }
