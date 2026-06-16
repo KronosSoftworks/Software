@@ -1,6 +1,6 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "zip_url": "https://github.com/KronosSoftworks/Software/raw/refs/heads/main/Altair/Altair.zip",
-    "zip_sha256": "87248bc004e86904c75e02c6205357045b6e5b043a9d3cdee6c70e84e482cb7e",
-    "version_message": "added searchbar in the mod manager installed mods list, fixed .mrpack curseforge mod handling, potentially fixed bug of mrpack staying the same when exported again after mods have been added/deleted/changed."
+    "zip_sha256": "f615b2211dd595418aaf14cda3a28b367bce8bc56300d0a4e9db91f4849a5e7b",
+    "version_message": "fixed export .mrpack error. Aaaahhhhhhhhhhhh!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 }
