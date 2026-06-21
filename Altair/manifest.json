@@ -1,6 +1,6 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "zip_url": "https://github.com/KronosSoftworks/Software/raw/refs/heads/main/Altair/Altair.zip",
-    "zip_sha256": "679733fe7b1cb57e4f549864c6d8ec70f297a78a668d0c13e3239d22131dbfaf",
-    "version_message": "Added a dropdown menu in the settings to configure what graphical device Minecraft uses [power savings or high performance]. High performance by default. Ha ha ha the zip sha256 hash starts with 67"
+    "zip_sha256": "66aab5da6ba7dd81e9db92a1b037f88f8e98c7fb91d6b0a9c63f5a8775d3ae70",
+    "version_message": "Automatically detect dependencies of mods you install (Modrinth + CurseForge). It will prompt you asking you if you would like to install the dependencies as well, when you install a mod that it detects has dependencies. You can decline it, it is not forced.\n\nAdded a profile strip/area in the launcher tab.\n\nFix some issues with icons of mods not loading in the mod manager.\n\nMade mods that don't have an icon show as a red X on a black background.\n\nMade it so a dialog window appears when you click Set Skin, giving you control over whether it is a Slim or Classic skin type.\n\nAdded a feature called 'Skin Share Party' which makes it much easier to share your skin with friends. Supports hosting and joining a (TCP based) server to share your skin."
 }
