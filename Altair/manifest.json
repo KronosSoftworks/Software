@@ -1,6 +1,6 @@
 {
-    "version": "0.3.1",
+    "version": "0.4.0",
     "zip_url": "https://github.com/KronosSoftworks/Software/raw/refs/heads/main/Altair/Altair.zip",
-    "zip_sha256": "b10f64067528ad3cf880776a4106d10454d54623d4153e720057c8d7fb6adffe",
-    "version_message": "Fix skin share party console formatting.\n\nFix freezing when stopping server when someone is connected [maybe]\n\nAnd likely fix the issue where skins don't properly show on 26.1.2."
+    "zip_sha256": "e79fc7ce8edd385ecae74fceb088fb303d27fed3a89ef61054baa6f4c671f57d",
+    "version_message": "Made the Optimize Performance checkbox work properly across all mod loaders.\n\nAdded a new Profile tab where the username and skin settings/config now reside. Allows for multiple profiles.\n\nMade Microsoft/online account profiles an option.\n\nAdded sorting/searching for the servers/instances lists.\n\nAdded the icon of the mod loader to the left of each server/instance.\n\nMoved away from .mrpack to .altairpack format. Still backwards compatible with .mrpack, though.\n\nFixed the red line being misaligned in the skin placeholder image.\n\nMade it so you can change your UUID (offline accounts only), plus you can view and copy your UUID for both online and offline accounts.\n\nReplaced Extra JVM Args with Args to allow full control over the args used to start an instance/server.\n\nAdded a downgrade/upgrade button and menu in the Mod Manager to allow for mass upgrading or downgrading of mods.\n\nMade the columns in the versions tab of the mod details window sortable.\n\nIf you experience any issues, please contact me and let me know. Please keep in mind that Altair is managed and developed by one person only (@kronos.solaris on Discord), so bugs are inevitable."
 }
