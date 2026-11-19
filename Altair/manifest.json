@@ -1,6 +1,6 @@
 {
-  "version": "0.5.1",
+  "version": "0.5.2",
   "zip_url": "https://github.com/KronosSoftworks/Software/raw/refs/heads/main/Altair/Altair.zip",
-  "zip_sha256": "51d90bbda2cf22c2d2086e27412b3f09b2cb0665d78b100e84506f878a9e27a4",
-  "version_message": "--- 0.5.1 Bug Fixes ---\n\n\nFixed Embeddium and Sodium both being installed on NeoForge instances and servers when Optimize Performance is checked.\n\nFixed Mod Manager bugging out when another mod is selected while installing a mod.\n\nFixed NeoForge version format bug."
+  "zip_sha256": "71b77fbd9b8c43d57bfbb7812658c4eafd415ca86df4d9994d7f0b301f60c4e2",
+  "version_message": "--- 0.5.2 Automatic Java Downloading/Updating ---\n\n\nThe Java runtimes now do not come with the Altair update zip that is downloaded over the internet. This means that updates and installations will be around ~3x faster and have ~3x less downloaded content. The Java runtimes are downloaded from the installed Altair app when: the app is started, or when a server is hosted, or when Minecraft is launched from Altair. Altair also scans for new versions of the Java runtimes and will update Altair's installed Java runtimes accordingly.\n\nForgot to include in the last update note: msquic.dll is now bundled with Altair since before that, the E4MC exposing feature did not work and would error without msquic.dll."
 }
